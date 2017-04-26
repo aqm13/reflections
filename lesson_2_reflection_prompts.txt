@@ -5,8 +5,9 @@ Git starts to monitor the files in the folder. To let Git know which file he has
 What value do you think it offers?
 In the staging area I keep the files that I currently want to commit. I can make changes in a file that it’s not in the staging area, and that will not affect my commit. Also I am allowed to chose which file changes I want to commit by putting or removing a file in the staging area. 
 
-How can you use the staging area to make sure you have one commit per logical
+** How can you use the staging area to make sure you have one commit per logical
 change?
+I should insert in the staging area only the files that are related to my one change, and then commit that change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
