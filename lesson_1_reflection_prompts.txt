@@ -1,0 +1,35 @@
+** Reflection 1: Why it is important to compare a code with an older version of it?
+
+If the code it's not running and the older did we can focus only on
+the changes we have made to see what went wrong.
+Or maybe the output was really different the second time, while it
+shouldn't have been.
+
+** Reflection 2: How could having easy acces to the entire history of a file make you a more efficient programmer in the long term?
+
+I can see how the program evolved in time, letting me understand
+better the core parts of the program.
+I can see the type of errors I make, and I could be more careful in
+not making them in the future.
+
+** Reflection 3: What do you think are the pros and cons of manually choosing when to create a commit?
+Pro
+- can save at logical moments
+- you have control of what you save
+
+Cons
+- can lose work because of a computer break or other
+- you have to think always about saving the file
+
+** Reflection 4: Why do you think that some version control systems allow saving files in one commit while other treat each file separately?
+In programming is important to have files connected because they are
+generally much more connected to each other than the files we use for
+personal purposes. And maybe it is easier to implement a separate
+treatement of the files.
+** Reflection 5: How can you use the commands git log and git diff to view the history of files?
+By using git log I can see all the history of the commits that have
+been made and I can compare any two such commits with git diff. 
+** Reflection 6: How might using version control make you more confident to make changes that could break something?
+When using version control we can spot easier the point where
+something went wrong, so we feel freer to be more creative and try new
+ideas even if they might turn wrong
