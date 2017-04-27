@@ -25,7 +25,7 @@ Cons
 In programming is important to have files connected because they are
 generally much more connected to each other than the files we use for
 personal purposes. And maybe it is easier to implement a separate
-treatement of the files.
+treatment of the files.
 ** Reflection 5: How can you use the commands git log and git diff to view the history of files?
 By using git log I can see all the history of the commits that have
 been made and I can compare any two such commits with git diff. 
