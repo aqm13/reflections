@@ -26,10 +26,15 @@ In programming is important to have files connected because they are
 generally much more connected to each other than the files we use for
 personal purposes. And maybe it is easier to implement a separate
 treatment of the files.
+
 ** Reflection 5: How can you use the commands git log and git diff to view the history of files?
 By using git log I can see all the history of the commits that have
 been made and I can compare any two such commits with git diff. 
+
 ** Reflection 6: How might using version control make you more confident to make changes that could break something?
 When using version control we can spot easier the point where
 something went wrong, so we feel freer to be more creative and try new
 ideas even if they might turn wrong
+
+** Reflection 7 : How Do You Want to Use Git?
+I want to use git to keep track and improve my codes, but also to keep track of my writing advancements.
