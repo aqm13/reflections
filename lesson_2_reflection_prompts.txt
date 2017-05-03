@@ -11,6 +11,7 @@ I should insert in the staging area only the files that are related to my one ch
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+when I want to introduce an experimental feature, make a new version (like making the game in a different language). They would help because I could return when I need to the previous version and evolve with it. 
 
 How do the diagrams help you visualize the branch structure?
 
