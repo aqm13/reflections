@@ -9,14 +9,18 @@ In the staging area I keep the files that I currently want to commit. I can make
 change?
 I should insert in the staging area only the files that are related to my one change, and then commit that change.
 
-What are some situations when branches would be helpful in keeping your history
+** What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 when I want to introduce an experimental feature, make a new version (like making the game in a different language). They would help because I could return when I need to the previous version and evolve with it. 
 
-How do the diagrams help you visualize the branch structure?
+** How do the diagrams help you visualize the branch structure?
+I can understand what modifications have been made on each side, at which parent they have appeared.
 
-What is the result of merging two branches together? Why do we represent it in
+** What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+When merging two branches together the combined file will keep the lines that are common to the two branches, will delete the lines from the parent that where deleted in at least on of the branch, and will add the new lines introduced in the branch.
+After the merge, the two branches will be organized in the log in chronological order.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+** What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+New features that shouldn’t be introduced might be, and features that are needed might be deleted.
